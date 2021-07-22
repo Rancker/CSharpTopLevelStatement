@@ -1,0 +1,16 @@
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\CSharpTopLevelStatements.exe
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\CSharpTopLevelStatements.deps.json
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\CSharpTopLevelStatements.runtimeconfig.json
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\CSharpTopLevelStatements.runtimeconfig.dev.json
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\CSharpTopLevelStatements.dll
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\ref\CSharpTopLevelStatements.dll
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\bin\Debug\net5.0\CSharpTopLevelStatements.pdb
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.csprojAssemblyReference.cache
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.AssemblyInfoInputs.cache
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.AssemblyInfo.cs
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.csproj.CoreCompileInputs.cache
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.dll
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\ref\CSharpTopLevelStatements.dll
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.pdb
+C:\Chhavi\Code\CSharpTopLevelStatements\CSharpTopLevelStatements\obj\Debug\net5.0\CSharpTopLevelStatements.genruntimeconfig.cache

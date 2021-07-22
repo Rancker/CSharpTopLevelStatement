@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharpTopLevelStatements": {
+      "commandName": "Project",
+      "commandLineArgs": "TopLevelStatement"
+    }
+  }
+}
